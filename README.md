@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=505&height=44&lines=Digital%20Analytics%20and%20AI%20Engineering%20at%20Sun%20Life;Computer%20Engineering%20at%20Queen's" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=505&height=44&lines=Digital%20Analytics%20and%20AI%20Engineering%20at%20Sunlife;Computer%20Engineering%20at%20Queen's" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
