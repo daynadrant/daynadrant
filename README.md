@@ -12,7 +12,7 @@
 
 Computer Engineering student at Queen’s University graduating in April 2028 who enjoys building software, hardware, and AI solutions. If I'm not coding, I'm probably drinking coffee, with my dogs, or hanging out with family and friends!
 
-🔭 &nbsp;I'm currently working on **AI agents and dashboards at Sun Life**  
+🔭 &nbsp;I'm currently working on **AI agents and dashboards at Sunlife**  
 🌱 &nbsp;I'm currently learning **BMAD**  
 😄 &nbsp;Pronouns: **she/her**
 
